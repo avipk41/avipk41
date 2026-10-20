@@ -6,6 +6,10 @@ Lulusan D3 Teknik Komputer Politeknik Negeri Sriwijaya (IPK 3,61). Pengalaman ma
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avip-kurniawan-harahap-1a4494405)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avip_k)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:avipk41@gmail.com)
+
+📞 Phone: +62 856-0926-9024 · ✉️ Email: avipk41@gmail.com · 📷 Instagram: @avip_k
 
 ## 💼 Experience — PT Telkom Indonesia
 **Quality Engineering & Data Management (QE & DAMAN) — Internship, Aug 2025 – Oct 2025, Palembang**
