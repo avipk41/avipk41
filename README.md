@@ -27,3 +27,4 @@ Tugas Akhir D3 saya adalah sistem presensi dan akses laboratorium berbasis IoT (
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=avipk41&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+https://avip.my.id/
